@@ -1,0 +1,12 @@
+{
+  "parts": [
+    { "id": 1, "title": "Getting Started", "description": "What iOS is, how apps get onto an iPhone, installing Xcode, and running your very first app in the Simulator and on your own phone." },
+    { "id": 2, "title": "Swift Essentials", "description": "The language of modern Apple development. Learn it properly first: values and types, control flow, collections, optionals, structs and classes, protocols, errors and concurrency." },
+    { "id": 3, "title": "Building UI with SwiftUI", "description": "Build screens declaratively: views and modifiers, stacks and layout, controls, state and bindings, lists and forms, styling, and animation." },
+    { "id": 4, "title": "App Architecture", "description": "How real apps are structured: the app lifecycle, navigation between screens, the Observation framework and MVVM, and dependency injection." },
+    { "id": 5, "title": "Data & Networking", "description": "Fetch JSON from web APIs with URLSession and Codable, persist data with SwiftData, store settings and secrets, and make your app work offline." },
+    { "id": 6, "title": "The iOS Platform", "description": "Links, sharing, permissions and the photo picker, notifications and background work, widgets, and UIKit interop." },
+    { "id": 7, "title": "Quality & Shipping", "description": "Test with Swift Testing, debug and profile with Instruments, then sign, upload, test with TestFlight and release on the App Store." },
+    { "id": 8, "title": "Capstone: RecipeBox", "description": "Put everything together and build a complete, production-style SwiftUI app from an empty project to a TestFlight build." }
+  ]
+}
